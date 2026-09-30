@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const MAP_URL =
-  'http://play.keykey.fr:26005/#world:-586:0:4171:17949:0.02:0:0:0:perspective'
+  'https://play.keykey.fr:26005/#world:-586:0:4171:17949:0.02:0:0:0:perspective'
 </script>
 
 <template>
